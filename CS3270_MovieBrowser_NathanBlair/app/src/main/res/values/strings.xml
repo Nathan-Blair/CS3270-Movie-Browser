@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CS3270 Movie Browser Nathan Blair</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_zipcode">Enter Zipcode</string>
+    <string name="submit">Submit</string>
+    <string name="movie_browser">Movie Browser</string>
+    <string name="home">Home</string>
+    <string name="browse">Browse</string>
+    <string name="saved">Saved</string>
+    <string name="movie_search">Movie Search</string>
+    <string name="enter_movie_title">Enter Movie Title</string>
+    <string name="search">Search</string>
+    <string name="delete">Delete</string>
+    <string name="save_to_list">Save To List</string>
+</resources>
